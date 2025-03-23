@@ -3,4 +3,4 @@
 
 ## 📌 التثبيت:
 ```bash
-pip install git+https://github.com/YOUR-USERNAME/Eyear.git
+pip install git+https://github.com/eyEar-system/Eyear.git
