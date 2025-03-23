@@ -1,6 +1,6 @@
 # Eyear Library
-مكتبة Python تحتوي على عدة كلاسات مع وظائف مختلفة.
+python library that has different classes.
 
-## 📌 التثبيت:
+## 📌 install:
 ```bash
 pip install git+https://github.com/eyEar-system/Eyear.git
